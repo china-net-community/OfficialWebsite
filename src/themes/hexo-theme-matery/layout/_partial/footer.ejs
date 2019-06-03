@@ -1,0 +1,48 @@
+<footer class="page-footer bg-color">
+    <div class="container row center-align">
+        <div class="col s12 m6 copy-right">
+            <p>本站由&copy;<a href="http://www.xin-lai.com" target="_blank">心莱信息科技有限公司官网</a>基于
+                <a href="https://hexo.io/" target="_blank">Hexo</a> 搭建</p>
+
+            <% if (theme.wordCount.enable && theme.wordCount.totalCount) { %>
+            &nbsp;<i class="fa fa-area-chart"></i>&nbsp;站点总字数:&nbsp;
+            <span class="white-color"><%= totalcount(site) %></span>
+            <% } %>
+
+            <% let socialClass = '' %>
+            <% if (theme.busuanziStatistics && theme.busuanziStatistics.enable) { %>
+            <% socialClass = 'social-statis' %><br>
+            <% if (theme.busuanziStatistics && theme.busuanziStatistics.totalTraffic) { %>
+            <span id="busuanzi_container_site_pv">
+                <i class="fa fa-heart-o"></i>
+                本站总访问量 <span id="busuanzi_value_site_pv" class="white-color"></span>
+            </span>
+            <% } %>
+            <% if (theme.busuanziStatistics && theme.busuanziStatistics.totalNumberOfvisitors) { %>
+            <span id="busuanzi_container_site_uv">
+                <i class="fa fa-users"></i>
+                次,&nbsp;访客数 <span id="busuanzi_value_site_uv" class="white-color"></span> 人.
+            </span>
+            <% } %>
+            <% } %>
+        </div>
+
+        <div class="col s12 m3 social-link <%- socialClass %>"><%- partial('_partial/social-link') %>
+            <% if (theme.socialLink.phone) { %>
+                <br />
+                <br />
+            <a class="tooltipped" data-tooltip="电话联系我: <%= theme.socialLink.phone %>" data-position="top"
+                data-delay="50">
+                <i class="fa fa-phone"></i> <%= theme.socialLink.phone %>
+            </a>
+            <% } %>
+        </div>
+        <div class="col s12 m3 copy-right">
+            <% if (theme.socialLink.wechat) { %>
+            <img src="<%= theme.socialLink.wechat %>" class="wechat-img" alt="公众号">
+            <% } %>
+        </div>
+    </div>
+</footer>
+
+<div class="progress-bar"></div>
