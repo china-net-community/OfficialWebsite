@@ -4,20 +4,20 @@ menu:
   Index:
     url: /
     icon: fa-home
-  Tags:
-    url: /tags
+  Activity:
+    url: /activity
     icon: fa-tags
-  Categories:
-    url: /categories
+  Technology:
+    url: /technology
     icon: fa-bookmark
-  Archives:
-    url: /archives
+  Recruit:
+    url: /recruit
     icon: fa-archive
-  About:
-    url: /about
+  Housework:
+    url: /housework
     icon: fa-user-circle-o
-  Friends:
-    url: /friends
+  Us:
+    url: /us
     icon: fa-address-book
 
 # Index cover carousel configuration.
