@@ -1,6 +1,6 @@
 FROM node:10.15.3-alpine
 # 设置标签
-LABEL author=长沙.net社区 email=xinlai@xin-lai.com site=https://docs.xin-lai.com
+LABEL author=长沙.net社区 email=xinlai@xin-lai.com site=https://hn-tech.net
 # 设置容器内端口
 EXPOSE 8000
 # 添加目录
