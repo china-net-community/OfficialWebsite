@@ -157,7 +157,7 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: /medias/avatar.jpg
+  avatar: /medias/logo.png
   career:
   introduction: 踏实，直率相处，乐于助人；对技术满怀热情；致力于帮助客户带来价值.
 
