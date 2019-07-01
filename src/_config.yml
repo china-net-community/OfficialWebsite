@@ -5,7 +5,7 @@
 # Site
 title: 长沙.NET技术社区
 subtitle: 长沙.NET技术社区
-description: 长沙.NET技术社区
+description: 长沙.NET技术社区欢迎您！
 keywords: 长沙.NET技术社区
 author: 长沙.NET技术社区
 language: zh-CN
@@ -36,8 +36,8 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-#本地图片
-post_asset_folder: true
+
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:
