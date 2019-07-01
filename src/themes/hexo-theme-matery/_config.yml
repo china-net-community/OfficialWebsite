@@ -5,19 +5,19 @@ menu:
     url: /
     icon: fa-home
   Activity:
-    url: /activity
+    url: /categories/活动/
     icon: fa-tags
   Technology:
-    url: /technology
+    url: /categories/技术/
     icon: fa-bookmark
   Recruit:
-    url: /recruit
+    url: /categories/招聘/
     icon: fa-archive
   Housework:
-    url: /housework
+    url: /categories/家务/
     icon: fa-user-circle-o
   Us:
-    url: /us
+    url: /about
     icon: fa-address-book
 
 # Index cover carousel configuration.
