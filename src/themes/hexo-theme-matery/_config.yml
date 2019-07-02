@@ -13,6 +13,9 @@ menu:
   Recruit:
     url: /categories/招聘/
     icon: fa-archive
+  开源:
+    url: /categories/开源/
+    icon: fa-github
   Housework:
     url: /categories/家务/
     icon: fa-user-circle-o
