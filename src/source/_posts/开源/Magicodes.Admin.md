@@ -13,6 +13,7 @@ top: true
 cover: true
 toc: true
 mathjax: false
+summary: Magicodes.Admin，是一套高效率、易扩展、基础设施强大、代码生成完备、理念和技术先进的敏捷开发框架，同时也是一套分布式、跨平台（linux、Docker容器支持）、多终端（包括Android、IOS、H5、小程序、微信公众号）、前后端分离、持续集成（CI）、自动部署（CD）、监控支持的统一开发框架和开发解决方案。
 ---
 
 # Magicodes.Admin
