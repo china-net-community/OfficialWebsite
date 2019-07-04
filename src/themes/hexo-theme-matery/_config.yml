@@ -1,4 +1,4 @@
-# main menu navigation url and icon
+﻿# main menu navigation url and icon
 # 配置菜单导航的名称、路径和图标icon.
 menu:
   Index:
@@ -95,10 +95,10 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  qq: 2066552848
+  qq: 254004494
   github: https://github.com/china-net-community
-  email: xinlai@xin-lai.com
-  phone: 0731-8957 8830
+  email: 微信号:xuehua0602
+  phone: 
   wechat: /medias/wechat.jpg
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
@@ -128,7 +128,7 @@ reward:
 copyright:
   enable: true
   minCharNumber: 20 # 至少复制多少个字符就追加版权信息.
-  description: 如果喜欢作者的文章，请关注“magiccodes”订阅号以便第一时间获得最新内容。本文版权归作者和湖南心莱信息科技有限公司共有，欢迎转载，但未经作者同意必须保留此段声明，且在文章页面明显位置给出原文连接，否则保留追究法律责任的权利。<br />编程交流群<85318032>，产品交流群<897857351>。
+  description: 如果喜欢作者的文章，请关注“DotNET技术圈”订阅号以便第一时间获得最新内容。本文版权归作者和长沙.NET技术社区共有，欢迎转载，但未经作者同意必须保留此段声明，且在文章页面明显位置给出原文连接，否则保留追究法律责任的权利。<br />放肆.NET技术交流<44329330>。
 
 
 
