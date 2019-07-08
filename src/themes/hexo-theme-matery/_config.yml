@@ -118,9 +118,9 @@ code:
 # 是否激活文章末尾的打赏功能，默认激活（你替换为的你自己的微信、支付宝二维码图片、或者使用网络图片也可以）.
 reward:
   enable: true
-  title: 感谢您为社区提供的赞赏，您的每一分赞赏都将助力社区成就更好明天
+  title: 感谢您为长沙.NET技术社区提供的赞赏
   wechat: /medias/reward/wechat.jpg
-  #alipay: /medias/reward/alipay.jpg
+  alipay: /medias/reward/alipay.jpg
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
 # minCharNumber: Approve copyright information by copying at least how many characters.
