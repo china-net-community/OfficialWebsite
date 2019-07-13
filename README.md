@@ -1,7 +1,7 @@
 # 长沙.NET技术社区官网
 本库为长沙.NET技术社区官网代码和内容
 
-网址:<http://hn-tech.net/>
+网址:<http://www.hn-tech.net/>
 
 # 社区发帖指南
 
@@ -9,7 +9,7 @@
 
 ## 基本信息
 
-社区官网：<http://hn-tech.net/>
+社区官网：<http://www.hn-tech.net/>
 
 代码库（**社区官网基于此库自动构建**）：<https://github.com/china-net-community/OfficialWebsite>
 
